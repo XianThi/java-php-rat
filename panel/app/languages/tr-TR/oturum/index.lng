@@ -1,0 +1,9 @@
+<?php
+$messages['login_header']='Giriş Yap';
+$messages['email_label']='Kullanıcı Adı veya E-Posta';
+$messages['password_label']='Şifre';
+$messages['login_button']='Giriş Yap';
+$messages['register_header']='Henüz üyeliğiniz yok mu?';
+$messages['register_notice']='Hemen kayıt olun!';
+$messages['register_button']='Kayıt Ol';
+?>

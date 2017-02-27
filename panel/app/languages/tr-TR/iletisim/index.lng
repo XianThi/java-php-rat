@@ -1,0 +1,4 @@
+<?php
+$messages['contact_header']='Bize Yazın';
+$messages['contact_desc']='Merak ettiklerinizi bize yazabilirsiniz.';
+?>

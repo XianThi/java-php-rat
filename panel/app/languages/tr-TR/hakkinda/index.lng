@@ -1,0 +1,4 @@
+<?php
+$messages['about_us_header']='Hakkımızda';
+$messages['about_us_desc']='Buraları doldur.';
+?>

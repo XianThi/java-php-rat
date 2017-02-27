@@ -1,0 +1,6 @@
+<?php
+$messages['r4t_title']='r4t Ayarları';
+$messages['create_button']='r4t Oluştur';
+$messages['r4t_list']='r4t Listesi';
+
+?>

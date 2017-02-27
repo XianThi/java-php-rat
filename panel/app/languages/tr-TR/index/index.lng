@@ -1,0 +1,6 @@
+<?php
+$messages['welcome'] = 'Hoşgeldiniz !';
+$messages['desc'] = 'Kurbanlarınızı panelden yönetebilirsiniz.';
+$messages['notice'] = 'PHP Tabanlı Tam Erişim RAT Yayında!';
+
+?>

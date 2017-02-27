@@ -1,0 +1,59 @@
+<?php
+$router = $this->get('router');
+$cont=$router->getControllerName();
+$act=$router->getActionName();
+if($cont==null or $cont=='index'){
+$messages['index_title']='Anasayfa';
+}
+
+if($cont=='iletisim'){
+if($act=='index' or $act==Null){
+$messages['index_title']='İletişim';
+}
+}
+
+if($cont=='hakkinda'){
+if($act=='index' or $act==Null){
+$messages['index_title']='Hakkında';
+}
+}
+
+if($cont=='oturum'){
+if($act=='index' or $act==Null){
+$messages['index_title']='Giriş Yap / Kayıt Ol';
+}
+if($act=='baslat'){
+$messages['index_title']='İşlemler';
+}
+if($act=='bitir'){
+$messages['index_title']='Güle Güle';
+}
+}
+
+if($cont=='kayit'){
+if($act=='index' or $act==Null){
+$messages['index_title']='Kayıt Ol';
+}
+}
+
+if($cont=='islemler'){
+if($act=='index' or $act==Null){
+$messages['index_title']='İşlemler';
+}
+}
+
+if($cont=='r4t'){
+if($act=='index' or $act==Null){
+$messages['index_title']='r4t Ayarları';
+}
+if($act=='id'){
+$messages['index_title']='r4t Görüntüle';
+}
+if($act=='olustur'){
+$messages['index_title']='r4t Oluştur';
+}
+if($act=='duzenle'){
+$messages['index_title']='r4t Düzenle';
+}
+}
+?>

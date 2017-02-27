@@ -1,0 +1,17 @@
+<?php
+
+//HEADER MENU
+$messages['index']='Anasayfa';
+$messages['islemler'] = 'İşlemler';
+$messages['r4t'] = 'r4t Ayarları';
+$messages['hesap'] = 'Hesap Ayarları';
+$messages['admin'] = 'Yönetim Paneli';
+$messages['hakkinda'] = 'Hakkında';
+$messages['iletisim'] = 'İletişim';
+$messages['oturum'] = 'Giriş Yap / Kayıt Ol';
+$messages['logout'] = 'Çıkış Yap';
+
+//TABS
+$messages['kurbanlar'] = 'Kurban Listesi';
+
+?>

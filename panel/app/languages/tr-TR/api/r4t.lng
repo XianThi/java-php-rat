@@ -1,0 +1,4 @@
+<?php
+$messages['r4t_token_error']='R4t ID ve Token uyuşmuyor.';
+$messages['r4t_not_found']='R4t bulunamadı.';
+?>

@@ -1,0 +1,14 @@
+<?php
+$messages['index']='Homepage';
+$messages['islemler'] = 'Proccess';
+$messages['r4t'] = 'r4t Settings';
+$messages['hesap'] = 'Account';
+$messages['admin'] = 'Administration';
+$messages['hakkinda'] = 'About';
+$messages['oturum'] = 'Login / Register';
+$messages['logout'] = 'Logout';
+
+//TABS
+$messages['kurbanlar'] = 'Victims';
+
+?>
